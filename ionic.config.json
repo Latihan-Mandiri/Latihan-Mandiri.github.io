@@ -1,0 +1,7 @@
+{
+  "name": "latihan-mandiri",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
